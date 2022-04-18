@@ -1,0 +1,347 @@
+.container{
+    background-color: #E9FAFC;
+    
+}
+ul li{
+    list-style: none;
+    display: inline;
+    margin-left: 40px;
+    
+ }
+.navBar{
+    margin-left: 65%;
+  
+  
+ }
+.parag p{
+    color: #eaad58;
+ }
+
+.headingg{
+    margin-left: 5%;
+    font-size: 40px;
+
+}  
+.parag{
+    margin-left: 5%;
+}
+.headingg p{
+font-size: 25px;
+}
+.buttn{
+    padding: 1%;
+    border-radius: 15%;
+    background-color:#42A1AB ;
+  
+}
+.ic {
+    margin-left: 5%;
+}
+
+img{
+     margin-left:-15% ;
+    margin-top: 5%;
+    border-radius: 10%;
+    border: 50% solid grey;
+    width: 140%; 
+    height: 90%;
+    margin-top: 150%; 
+} 
+.circle img{
+    margin-top: -80%;
+    border: 70px solid #CFE4E7;
+    height: 50vh;
+    width: 60vh;
+    border-radius: 100%;
+    margin-left: 55%;
+    background-color: #E9FAFC;
+}
+.services {
+    font-size: 50px;
+    margin-left: 20%;
+    margin-top: -3.8%;
+} 
+.serv h1{
+    margin-left: -15%;
+    font-size: 40px;
+    padding-top: 10%;
+
+}
+.services p{
+    margin-left: 65%;
+    margin-top: -6%;
+    font-size: 20px;
+} 
+.row{
+    display: flex;
+    margin-left: -4%;
+}
+.ambulance{
+    margin-left: 10%;
+    margin-top: 5%;
+    background-color: #FFFFFF;
+    padding: 2%;
+    border-radius: 5%;
+}
+.radio{
+    margin-top: 3%;
+    margin-left: 12%;
+    background-color: #FFFFFF;
+    padding: 3%;
+    border-radius: 5%;
+
+
+   
+}
+.dental{
+    margin-left: 12%;
+    margin-top: 4.8%;
+    background-color: #FFFFFF;
+    padding: 2%;
+    border-radius: 5%;
+}
+.row2{
+    display: flex;
+    margin-left: -6%;
+    margin-top: 3%;
+    padding: 5%;
+
+}
+.surgical{
+    margin-left: 12%;
+    background-color: #FFFFFF;
+    padding: 2%;
+    border-radius: 5%;
+}
+.parturition{
+    margin-left: 11%;
+    background-color: #FFFFFF;
+    padding: 2%;
+    border-radius: 5%;
+}
+.pet{
+    margin-left:10% ;
+    background-color: #FFFFFF;
+    padding: 2%;
+    border-radius: 5%;
+}
+.bestvet{
+    background-color: #E9FAFC;
+    display: flex;
+}
+
+.sec2{
+    background-color:#F8FEFF;
+    margin-top: 4%;
+    
+}
+.info{
+    margin: 20%;
+    margin-top: 15%;  
+}
+.info h1{
+font-size: xx-large;
+}
+.paragraph{
+   font-size: x-large;
+}
+.contact{
+    margin-top: 40%;
+    margin-left: -62%;
+}
+.conta{
+    background-color: #42A1AB;
+    font-size: 160%;
+    border-radius: 10%;
+}
+
+.patients{
+    background-color: #F8FEFF;
+    margin-top: -8%;
+
+}
+.pa{
+     margin-left: 64%;
+     font-size: 180%;
+     margin-top: -4%;
+}
+.hosp{
+    margin-top: 20%;
+}
+.headin1 h1{
+    font-size: 280%;
+    margin-left: 8%;
+}
+.boxes{
+    display: flex;
+    margin-left: -10%;
+    margin-top: 8%;
+    
+
+}
+.box h1{
+    margin-top: 17%;
+}
+.box{
+    margin-left: 20%;
+    border-radius:5%;
+    font-size: x-large;
+    padding:3%;
+    background-color: #FFFFFF;
+    height: 50vh;
+}
+.box1{
+    margin-left: 4%;
+    border-radius:6%;
+    background-color: #FFFFFF;
+    font-size: x-large;
+    padding:3%;
+    height: 50vh;
+}
+.box1 h1{
+    margin-top: 17%;
+}
+.qualified h1{
+    font-size: 280%;
+    margin-top: 20%;
+    margin-left: 10%;
+}
+.doctors{
+    background-color: #F8FEFF;
+    
+}
+.pic1 img{
+    border-radius: 5%;
+    height: 80vh;
+    width: 80%;
+    background-color: #F4F0FD;
+}
+.picha{
+    display: flex;
+    margin-left: 15%;
+    margin-top: -35%;
+}
+.pic2 img{
+    height: 80vh;
+    width: 80%;
+    border-radius: 5%;
+    background-color: #E3FCFE;
+
+}
+.pic3 img{
+    height: 80vh;
+    width: 80%;
+    border-radius: 5%;
+    background-color: #FEF5F0;
+   
+}
+.headinggg{
+    margin-top: 5%;
+    margin-left: 10%;
+    background-color: #E9FAFC;
+    width: 50%;
+    font-size: 180%;
+    padding: 8%;
+    border-radius:5% ;
+    padding-left: 20%;
+
+}
+
+.par p{
+    background-color: #eabe58;
+    width: 35%;
+    margin-top: -9%;
+    margin-left: 25%;
+    padding: 3%;
+    border-radius: 6%;
+    background-color: #FFFFFF;
+}
+#sub {
+    background-color: #42A1AB;
+    margin-left: 55%;
+    padding: 8%;
+    border-radius: 5%;
+    margin-top: -20%;
+
+}
+.footer{
+    background-color:#F8FEFF;
+    
+    
+}
+.heading{
+    margin-left: 19%;
+    background-color: #a8bfc3;
+    
+
+}
+.footer1{
+    display: flex;
+    margin-top: 10%;
+    
+}
+.yourpet{
+    margin-left: 15%;
+}
+.product{
+    margin-left: 15%;
+}
+.community{
+    margin-left: 15%;
+}
+.about{
+    margin-left: 15%;
+}
+.desktop{
+    background-color: #E9FAFC;
+    border-radius: 90%;
+    width: 0.55%;
+    height: 0.25%;
+    padding: 14%;
+}
+.amb{
+    background-color: #E9FAFC;
+    border-radius: 50%;
+    width: 0.75%;
+    height: 0.85%;
+    padding: 14%;  
+}
+.dent{
+    background-color: #E9FAFC;
+    border-radius: 50%;
+    width: 0.75%;
+    height: 0.85%;
+    padding: 14%;  
+}
+.surg{
+    background-color: #E9FAFC;
+    border-radius: 50%;
+    width: 0.75%;
+    height: 0.85%;
+    padding: 14%;  
+}
+.part{
+    background-color: #E9FAFC;
+    border-radius: 50%;
+    width: 0.75%;
+    height: 0.85%;
+    padding: 14%;   
+}
+.pett{
+    background-color: #E9FAFC;
+    border-radius: 50%;
+    width: 0.75%;
+    height: 2%;
+    padding: 14%; 
+}
+.stars{
+    color: #eabe58;
+}
+.bestvet img{
+    margin-left: 15%;
+    margin-top: 25%;
+}
+
+
+     
+ 
